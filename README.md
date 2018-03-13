@@ -1,6 +1,6 @@
 # Synchronized-Round-Consensus
 <br>
-UB Distributed System Course Project <br>
+UB CSE 586 Distributed System Course Project <br>
 
 Use TLA+ to implement the algotirhnm
 
